@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on C# Projects (Notepad)
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: Twitter - @am_ram841
 - 😄 Pronouns: He / His 
 -  Still Learning Things !! 
