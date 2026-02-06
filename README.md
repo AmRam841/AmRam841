@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on various little projects and some big demanding ones like RoadPulse<br>👯 I’m looking to collaborate on anything that helps people and me<br>🌱 I’m currently learning python and PostgreSQL , Django and ....<br>💬 Ask me about Anything
 
 
 ## 🌐 Socials:
